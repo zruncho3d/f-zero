@@ -19,7 +19,7 @@ A full CAD is in progress.
 ### Parts in this Repo
 
 In this repo are all the STLs you need to make an F-Zero, except for:
-- Voron 0.0 or 0.1 parts, including gantry, toolhead, carriage retainers, and M2 nutbars
+- Voron 0.0 or 0.1 parts, including gantry, toolhead, carriage retainers, tophat, and M2 nutbars
 - Z endstop (see #micron-v2 on DoomCube Discord)
 
 All parts should be already be in print-ready orientation, and no supports are needed.
@@ -32,6 +32,7 @@ Standard Voron settings, or lowered infill and fewer perims, should work fine fo
 
 Exceptions include:
 - Frame Corners: print at 4 perimeters, 0% infill, 0.16mm layer height (seriously)
+- Electronics Mezzanine Spacers: print at 3 perimeters, 0% infill, 0.2 layer height
 
 ### Frame Corners
 
