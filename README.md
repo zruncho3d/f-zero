@@ -33,6 +33,7 @@ Standard Voron settings, or lowered infill and fewer perims, should work fine fo
 Exceptions include:
 - Frame Corners: print at 4 perimeters, 0% infill, 0.16mm layer height (seriously)
 - Electronics Mezzanine Spacers: print at 3 perimeters, 0% infill, 0.2 layer height
+- NoDropNuts: print at 3 perimters, 0% infill
 
 ### Frame Corners
 
