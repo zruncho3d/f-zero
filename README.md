@@ -1,20 +1,17 @@
-## F-Zero: a Voron-0 mod from Zruncho
-Put your Voron-0 in a box and make it fly.  Get your own Voron-2 trainer on the cheap.
+# F-Zero by Zruncho - an Evolved Voron Zero
+### Upgrade your V0 or build a fresh F0.  
+### Full auto-calibration at a fraction of the price of a V2.  
+### Make every first layer perfect!
 
-![picture](Images/front_green_black_silver.png)
-
-This picture is heavily out of date.  The printer has been printing since June 2021.
-
-A full CAD is in progress.
+![picture](Images/front_iso_orange.png)
 
 ### Buildlog and Design Doc
 
-[See the Buildlog and Design Gdoc](https://docs.google.com/document/d/1dm8itefYrLIsCcOQht9sdMzrXE8Jk30s56c9IwtRCkM/edit#heading=h.c4f5tznx0p31) for more details:
-- status
-- BOM
-- assembly manual
-- design notes
-- ...and more
+[See the Assembly Manual and Buildlog Gdoc](https://docs.google.com/document/d/1dm8itefYrLIsCcOQht9sdMzrXE8Jk30s56c9IwtRCkM/edit#heading=h.c4f5tznx0p31) for more details.
+
+While the printer is in development, this Gdoc is the source of truth.
+
+Find a changelog, highlights, and more there.
 
 ### Parts in this Repo
 
@@ -33,7 +30,7 @@ Standard Voron settings, or lowered infill and fewer perims, should work fine fo
 Exceptions include:
 - Frame Corners: print at 4 perimeters, 0% infill, 0.16mm layer height (seriously)
 - Electronics Mezzanine Spacers: print at 3 perimeters, 0% infill, 0.2 layer height
-- NoDropNuts: print at 3 perimters, 0% infill
+- NoDropNuts: print at 3 perimeters, 0% infill
 
 ### Frame Corners
 
