@@ -5,6 +5,8 @@
 
 ![picture](Images/front_iso_orange.png)
 
+Join us on the [DoomCube Discord](https://discord.gg/DASuYj9F) for the latest info and any questions!
+
 ### Buildlog and Design Doc
 
 [See the Assembly Manual and Buildlog Gdoc](https://docs.google.com/document/d/1dm8itefYrLIsCcOQht9sdMzrXE8Jk30s56c9IwtRCkM/edit#heading=h.c4f5tznx0p31) for more details.
