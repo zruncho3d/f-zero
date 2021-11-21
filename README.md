@@ -3,7 +3,7 @@
 ### Full auto-calibration at a fraction of the price of a V2.  
 ### Make every first layer perfect!
 
-![picture](Images/front_iso_orange.png)
+![picture](Renders/iso.png)
 
 Join us on the [DoomCube Discord](https://discord.gg/DASuYj9F) for the latest info and any questions!
 
